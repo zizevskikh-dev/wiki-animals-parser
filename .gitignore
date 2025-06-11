@@ -1,0 +1,22 @@
+# Python and pytest cache directories
+**/__pycache__/
+**/.pytest_cache/
+
+# IDEs
+.idea/
+.vscode/
+
+# Environment directories
+.venv/
+
+#Environment variables
+*.env
+
+# Logs
+**/logs/
+*.log
+*.zip
+
+# Data directories and files
+**/reports/
+*.csv
